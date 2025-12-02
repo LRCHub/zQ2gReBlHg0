@@ -1,0 +1,100 @@
+# Spice – Go Down Deh
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:22.43] Whole heap ah hot gal in di place
+[00:24.17] Spice
+[00:24.75] Shaggy
+[00:25.72] Dem wan' to wine dem waist
+[00:27.82] (Costi Forza)
+[00:28.68] Tell dem forward in a haste
+[00:30.09] Budda-bong-bong, embrace, yeah
+[00:45.09] 
+[00:31.60] Early morning love she get it good from she rise
+[00:34.33] Mi put it on suh good and mek she shake all she thighs
+[00:36.76] Smile 'pon her face mi know she pleased with the size
+[00:39.36] Cah me nuh ramp fi mek dem gyal ya roll all dem eyes
+[01:05.36] 
+[00:42.09] Mmm, go down deh
+[00:43.62] Wine and go down deh
+[00:44.98] Mmm, go down deh
+[00:46.08] Wine and go down deh (she seh, gyal guh dung)
+[00:47.76] Mmm, go down deh
+[00:49.03] Wine and go down deh
+[00:50.43] Mmm, go down deh
+[00:51.74] Mmm
+[00:53.24] 
+[00:53.07] Wine 'pon yuh good mek sweat ah drip off a mi body yeh
+[00:55.45] How yuh full ah chat and yuh cyan keep up wid mi energy
+[00:58.19] What an epic night have it embedded ina yuh memory
+[01:00.88] Lethal bubble haffi treat it like a felony
+[01:21.88] 
+[01:03.23] What you gonna do when there is nobody
+[01:06.16] That do you better than this reggae guy? (Better than this reggae guy)
+[01:08.80] I can do this every morning every evening
+[01:11.27] Have you screaming straight back to sunrise
+[01:32.77] 
+[01:14.29] Mmm, go down deh
+[01:15.51] Wine and go down deh
+[01:17.17] Mmm, go down deh
+[01:18.20] Wine and go down deh (she seh, gyal guh dung)
+[01:19.55] Mmm, go down deh
+[01:20.84] Wine and go down deh
+[01:22.45] Mmm, go down deh
+[01:23.57] Mmm
+[01:25.07] 
+[01:24.97] Gal nuh badda fight it just get inna di position and buss wine
+[01:27.84] Never you forget this ah yuh mission
+[01:30.27] Fi tek a gal man yuh haffi inna condition and buss wine
+[01:33.17] Tek a sip and lose you inhibition
+[01:35.58] Cah when yuh dippin' it yuh start my ignition
+[01:38.33] See you swinging it and dis ah my ambition
+[01:40.73] Fi give yuh di legit love to mek yuh turn and twist and
+[01:43.48] Mi give yuh di steam mek yuh balance and grip on
+[02:07.48] 
+[01:46.36] Mmm, go down deh
+[01:47.82] Wine and go down deh
+[01:48.87] Mmm, go down deh
+[01:50.22] Wine and go down deh (she seh, gyal guh dung)
+[01:51.56] Mmm, go down deh
+[01:52.90] Wine and go down deh
+[01:54.57] Mmm, go down deh
+[01:55.53] Mmm
+[01:57.03] 
+[01:56.96] Stay dung deh gyal
+[01:58.76] Stay dung deh (woop, woop, woop)
+[02:14.76] 
+[01:59.51] My time fi wine
+[02:00.99] Mek dem know seh dat nobody cyan stop mi shine
+[02:03.63] Caribbean gyal dem ever clean and refined
+[02:06.02] Gyal just mek dem know that you are one a kind
+[02:09.07] Mmm
+[02:10.57] 
+[02:09.72] Mmm
+[02:11.64] Gal dem a do it like
+[02:13.45] Mmm
+[02:14.53] A bubble through di night
+[02:15.69] Mmm
+[02:17.29] Ah so me do it right
+[02:18.29] One ting mi tell woman dem get mi hype
+[02:37.29] 
+[02:20.46] Mmm, go down deh
+[02:22.06] Wine and go down deh
+[02:23.64] Mmm, go down deh
+[02:24.95] Wine and go down deh (she seh, gyal guh dung)
+[02:26.34] Mmm, go down deh
+[02:27.62] Wine and go down deh
+[02:28.98] Mmm, go down deh
+[02:30.38] Mmm
+[02:31.88] 
+[02:31.60] Gyal go down, down, down, down, down, down, down, down
+[02:34.54] Move dat ah, move dat ah, move dat ah, move dat ah
+[02:36.91] Gyal go down, down, down, down, down, down, down, down
+[02:39.67] Move dat ah, move dat ah, move dat ah, move dat ah
+[02:42.36] Gyal go down, down, down, down, down, down, down, down
+[02:44.97] Move dat ah, move dat ah, move dat ah, move dat ah
+[02:47.37] Gyal go down, down, down, down, down, down, down, down
+[02:50.53] Ah we cyan handle di man, straight up
+[02:52.90] Gal go down
+```
