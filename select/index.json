@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Go Down Deh",
+  "base_artist": "Spice",
+  "createdAt": "2025-12-02T07:12:53.029401Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Go Down Deh (feat. Shaggy and Sean Paul)",
+      "artist": "Spice feat. Shaggy & Sean Paul",
+      "has_synced": true,
+      "path": "select/01_Go_Down_Deh_(feat._Shaggy_and_Sean_Paul)_Spice_feat._Shaggy_&_Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Go Down Deh (feat. Shaggy and Sean Paul)",
+      "artist": "Spice, Shaggy, Sean Paul",
+      "has_synced": true,
+      "path": "select/02_Go_Down_Deh_(feat._Shaggy_and_Sean_Paul)_Spice,_Shaggy,_Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Go Down Deh (feat. Shaggy and Sean Paul)",
+      "artist": "Spice",
+      "has_synced": true,
+      "path": "select/03_Go_Down_Deh_(feat._Shaggy_and_Sean_Paul)_Spice.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Go Down Deh",
+      "artist": "Spice",
+      "has_synced": true,
+      "path": "select/04_Go_Down_Deh_Spice.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Go Down Deh (feat. Shaggy and Sean Paul)",
+      "artist": "Spice",
+      "has_synced": true,
+      "path": "select/05_Go_Down_Deh_(feat._Shaggy_and_Sean_Paul)_Spice.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Go Down Deh (feat. Shaggy and Sean Paul)",
+      "artist": "Spice",
+      "has_synced": true,
+      "path": "select/06_Go_Down_Deh_(feat._Shaggy_and_Sean_Paul)_Spice.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Go Down Deh (feat. Shaggy and Sean Paul)",
+      "artist": "Spice feat. Sean Paul & Shaggy",
+      "has_synced": true,
+      "path": "select/07_Go_Down_Deh_(feat._Shaggy_and_Sean_Paul)_Spice_feat._Sean_Paul_&_Shaggy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Go Down Deh",
+      "artist": "Spice, Sean Paul & Shaggy",
+      "has_synced": true,
+      "path": "select/08_Go_Down_Deh_Spice,_Sean_Paul_&_Shaggy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Go Down Deh (feat. Shaggy",
+      "artist": "Spice",
+      "has_synced": true,
+      "path": "select/09_Go_Down_Deh_(feat._Shaggy_Spice.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Go Down Deh (feat. Shaggy and Sean Paul)",
+      "artist": "Spice",
+      "has_synced": true,
+      "path": "select/10_Go_Down_Deh_(feat._Shaggy_and_Sean_Paul)_Spice.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Go Down Deh (feat. Shaggy and Sean Paul) - Slowed 200M Mix",
+      "artist": "Spice feat. Shaggy & Sean Paul",
+      "has_synced": true,
+      "path": "select/11_Go_Down_Deh_(feat._Shaggy_and_Sean_Paul)_-_Slowed_200M_Mix_Spice_feat._Shaggy_&_Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Go Down Deh (feat. Shaggy and Sean Paul) [Slowed 200M Mix] (Slowed 200M Mix)",
+      "artist": "Spice",
+      "has_synced": true,
+      "path": "select/12_Go_Down_Deh_(feat._Shaggy_and_Sean_Paul)_[Slowed_200M_Mix]_(Slowed_200M_Mix)_Spice.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Go Down Deh",
+      "artist": "Spice",
+      "has_synced": true,
+      "path": "select/13_Go_Down_Deh_Spice.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Go Down Deh [Slowed 200M Mix]",
+      "artist": "Spice",
+      "has_synced": true,
+      "path": "select/14_Go_Down_Deh_[Slowed_200M_Mix]_Spice.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Go Down Deh | Official Audio (feat. Sean Paul & Shaggy)",
+      "artist": "Spice",
+      "has_synced": true,
+      "path": "select/15_Go_Down_Deh___Official_Audio_(feat._Sean_Paul_&_Shaggy)_Spice.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Go Down Deh | Official Music Video (feat. Shaggy, Shaggy and Sean Paul & Sean Paul)",
+      "artist": "Spice",
+      "has_synced": true,
+      "path": "select/16_Go_Down_Deh___Official_Music_Video_(feat._Shaggy,_Shaggy_and_Sean_Paul_&_Sean_Pa_Spice.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Go Down Deh (feat. Shaggy & Sean Paul)",
+      "artist": "Spice",
+      "has_synced": true,
+      "path": "select/17_Go_Down_Deh_(feat._Shaggy_&_Sean_Paul)_Spice.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Go Down Deh (feat. Sean Paul & Shaggy)",
+      "artist": "Spice",
+      "has_synced": true,
+      "path": "select/18_Go_Down_Deh_(feat._Sean_Paul_&_Shaggy)_Spice.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Go Down Deh | Official Music Video (feat. Shaggy & Sean Paul)",
+      "artist": "Spice",
+      "has_synced": true,
+      "path": "select/19_Go_Down_Deh___Official_Music_Video_(feat._Shaggy_&_Sean_Paul)_Spice.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Go Down Deh (feat. Shaggy and Sean Paul)",
+      "artist": "SPICE",
+      "has_synced": false,
+      "path": "select/pl_01_Go_Down_Deh_(feat._Shaggy_and_Sean_Paul)_SPICE.txt"
+    }
+  ]
+}
